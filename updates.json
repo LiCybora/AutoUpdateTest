@@ -5,7 +5,7 @@
     {
      "version": "v0.0.0.55",
      "applications": { "gecko": { "strict_min_version": "52.0" } },
-     "update_link": "https://github.com/LiCybora/NanoCoreFirefox/releases/download/v0.0.0.55/nano_adblocker-0.0.0.55-an-fx.xpi"
+     "update_link": "https://github.com/LiCybora/AutoUpdateTest/releases/download/v0.0.0.55/nano_adblocker-0.0.0.55-an-fx.xpi"
     }
    ]
   }
